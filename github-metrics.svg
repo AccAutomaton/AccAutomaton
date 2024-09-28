@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1506" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1175" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .items{padding-left:11px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    27.9k added, 32 removed
+                                    164 added, 31 removed
                                 </div>
                             </section>
                             <section>
@@ -2379,6 +2379,40 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#6716 分类与标签的别名生成规则过于单一</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">halo-dev/halo</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#6715 别名生成策略——根据标题，存在可访问性问题</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">halo-dev/halo</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -2423,461 +2457,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 751 commits in
-                                        <span class="repo">AccAutomaton/halo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9fbbd40</div>
-                                        <div class="message">fix: missing permission check in plugin installation tabs and theme list tabs extension points (#4636)
-
-Signed-off-by: Ryan Wang &lt;i@ryanc.cc&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b963f3b</div>
-                                        <div class="message">fix: twice requests in menus page (#4622)
-
-Signed-off-by: Ryan Wang &lt;i@ryanc.cc&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f953201</div>
-                                        <div class="message">fix: missing ui permission condition about users (#4619)
-
-Signed-off-by: Ryan Wang &lt;i@ryanc.cc&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3e296d</div>
-                                        <div class="message">chore: bump formkit version to 1.1.0 (#4642)
-
-#### What type of PR is this?
-
-/area console
-/kind improvement
-/milestone 2.10.x
-
-#### What this PR does / why we need it:
-
-升级 FormKit 版本至 1.1.0 正式版。
-
-see https://formkit.com/changelog
-
-#### Special notes for your reviewer:
-
-测试 Console 的各个表单是否正常工作即可。
-
-#### Does this PR introduce a user-facing change?
-
-```release-note
-升级 FormKit 版本至 1.1.0 正式版。
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c48c5f9</div>
-                                        <div class="message">chore: update issue templates (#4641)
-
-#### What type of PR is this?
-
-None
-
-#### What this PR does / why we need it:
-
-更新 issue 模板。
-
-#### Does this PR introduce a user-facing change?
-
-```release-note
-None 
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7de97e4</div>
-                                        <div class="message">Merge pull request #4588 from wan92hen/main
-
-ci: push image to GHCR for pull_request event</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84f413d</div>
-                                        <div class="message">fix: bundle resources cache version may duplicate (#4591)
-
-#### What type of PR is this?
-/kind improvement
-/area core
-/milestone 2.10.x
-
-#### What this PR does / why we need it:
-修复 bundle resource 的缓存 key 生成可能会重复的问题
-
-#### Which issue(s) this PR fixes:
-Fixes #4586
-
-#### Does this PR introduce a user-facing change?
-```release-note
-修复 bundle resource 的缓存 key 生成可能会重复的问题
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd55a0f</div>
-                                        <div class="message">fix: ts error in components package (#4621)
-
-#### What type of PR is this?
-
-/kind cleanup
-/area console
-
-#### What this PR does / why we need it:
-
-修复 `@halo-dev/components` 包编译时有 error 级异常的问题。
-
-#### Which issue(s) this PR fixes:
-
-Fixes https://github.com/halo-dev/halo/issues/4544
-
-#### Special notes for your reviewer:
-
-观察此 PR 的 ci 中是否有异常输出即可。
-
-#### Does this PR introduce a user-facing change?
-
-```release-note
-None
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da2d56e</div>
-                                        <div class="message">chore: update download url of presets plugin (#4615)
-
-#### What type of PR is this?
-
-/area core
-/kind cleanup
-
-#### What this PR does / why we need it:
-
-修改预设插件的下载地址，目前四个预设插件的仓库都已经转移到 halo-dev 组织。
-
-#### Special notes for your reviewer:
-
-需要测试 `./gradlew downloadPluginPresets` 是否能够正常下载预设插件。 
-
-#### Does this PR introduce a user-facing change?
-
-```release-note
-None
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83cb088</div>
-                                        <div class="message">feat: improve the styles of the data list filter area on the mobile devices (#4587)
-
-#### What type of PR is this?
-
-/area console
-/kind improvement
-/milestone 2.10.x
-
-#### What this PR does / why we need it:
-
-改进移动设备上数据列表过滤器区域的样式。
-
-before:
-
-&lt;img width="429" alt="image" src="https://github.com/halo-dev/halo/assets/21301288/c0341b19-0ef5-4e26-94b7-71c52def6578"&gt;
-
-after:
-
-&lt;img width="429" alt="image" src="https://github.com/halo-dev/halo/assets/21301288/b2d0f07b-d94d-48d4-86b9-fd2953d141fa"&gt;
-
-
-#### Which issue(s) this PR fixes:
-
-Ref https://github.com/halo-dev/halo/issues/2699
-
-#### Does this PR introduce a user-facing change?
-
-```release-note
-改进 Console 端在移动设备上数据列表过滤器区域的样式。
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32d2def</div>
-                                        <div class="message">ci: push image to GHCR for pull_request event</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e13563b</div>
-                                        <div class="message">feat: add strategy setting for post slug generation (#4551)
-
-#### What type of PR is this?
-
-/kind improvement
-
-#### What this PR does / why we need it:
-
-添加文章别名自动生成策略
-
-#### Which issue(s) this PR fixes:
-
-Fixes https://github.com/halo-dev/halo/issues/1790
-
-#### Special notes for your reviewer:
-
-需要后端提供支持在globalInfo里面添加`gSlugMode`字段。它的类型为（后续可能会支持更多的模式）
-&lt;img width="582" alt="image" src="https://github.com/halo-dev/halo/assets/110895612/586c4742-6172-4bbc-a601-ca04c2a9a281"&gt;
-
-#### Does this PR introduce a user-facing change?
-
-
-```release-note
-文章支持多别名生成策略。
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31675db</div>
-                                        <div class="message">fix: i18n key of theme remote download tab label (#4576)
-
-#### What type of PR is this?
-
-/area console
-/kind bug
-/milestone 2.10.x
-
-#### What this PR does / why we need it:
-
-修复了主题远程下载标签的英文语言包键，使其可以正确显示标签标题。
-
-#### Does this PR introduce a user-facing change?
-
-```release-note
-修复 Console 端主题远程下载标签的英文语言包键名，使其可以正确显示标签标题。
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0098654</div>
-                                        <div class="message">Prevent basic authentication from popping up (#4556)
-
-#### What type of PR is this?
-
-/kind improvement
-/kind api-change
-/area core
-/milestone 2.10.x
-
-#### What this PR does / why we need it:
-
-See https://github.com/halo-dev/halo/issues/4547 for more.
-
-This PR creates header `WWW-Authenticate` like `FormLogin realm="console"` instead of `Basic realm="realm"` while unauthorized.
-
-#### Which issue(s) this PR fixes:
-
-Fixes https://github.com/halo-dev/halo/issues/4547
-
-#### Special notes for your reviewer:
-
-```bash
-curl --head 'http://localhost:8090/actuator/info'
-HTTP/1.1 401 Unauthorized
-transfer-encoding: chunked
-Vary: Origin
-Vary: Access-Control-Request-Method
-Vary: Access-Control-Request-Headers
-WWW-Authenticate: FormLogin realm="console"
-Cache-Control: no-cache, no-store, max-age=0, must-revalidate
-Pragma: no-cache
-Expires: 0
-X-Content-Type-Options: nosniff
-X-Frame-Options: DENY
-X-XSS-Protection: 0
-Referrer-Policy: no-referrer
-```
-
-
-#### Does this PR introduce a user-facing change?
-
-```release-note
-防止浏览器弹出基础认证弹窗
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3cf3ca</div>
-                                        <div class="message">pref: do not auto save when the setting modal is open (#4567)
-
-#### What type of PR is this?
-
-/kind improvement
-/area console
-
-#### What this PR does / why we need it:
-
-当设置模态框打开时，禁用自动保存功能。
-
-#### How to test it?
-
-1. 新建一篇文章，随意输入内容。
-2. 打开保存或发布表单，填写文章标题等内容
-3. 切换至其他 tab 页
-4. 再切换回来，查看文章标题是否没有被覆盖。
-
-#### Which issue(s) this PR fixes:
-
-Fixes #4566 
-
-#### Does this PR introduce a user-facing change?
-```release-note
-当文章或页面设置窗口打开时，禁用自动保存功能。
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87ca74c</div>
-                                        <div class="message">refactor: complete default values for global settings (#4562)
-
-#### What type of PR is this?
-/kind improvement
-/area core
-/milestone 2.10.x
-
-#### What this PR does / why we need it:
-补全系统全局设置的默认值
-
-how to test it?
-1. 初始化 halo
-2. 安装评论组件
-3. 到文章页面可以评论
-
-#### Which issue(s) this PR fixes:
-Fixes #4561
-
-#### Does this PR introduce a user-facing change?
-```release-note
-补全系统全局设置的默认值
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98d0c34</div>
-                                        <div class="message">refactor: set cache-control for bundle resources of plugin (#4557)
-
-#### What type of PR is this?
-/kind improvement
-/milestone 2.10.x
-/area core
-
-#### What this PR does / why we need it:
-为插件捆绑资源设置 cache-control 以优化静态资源加载
-
-如获取插件 bundle.js 会自动携带参数缓存时间为 7 天，当有插件停止或新增时 v 参数会变化浏览器则使用新的 key 缓存静态资源，旧的 key 将在一天内失效
-```
-/apis/api.console.halo.run/v1alpha1/plugins/-/bundle.js?v=6c5956f37e7207ab1c0f2f2340f51a101f46b748233992d73729415cd58f3587
-```
-#### Which issue(s) this PR fixes:
-Fixes #4543
-
-#### Does this PR introduce a user-facing change?
-```release-note
-为插件捆绑资源设置 cache-control 以优化静态资源加载
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c3e603</div>
-                                        <div class="message">Fix the problem of username being case-insensitive and logging in without permissions (#4552)
-
-#### What type of PR is this?
-
-/kind bug
-/area core
-/milestone 2.10.x
-
-#### What this PR does / why we need it:
-
-This PR fixes the problem of username being case-insensitive and logging in without permissions. Please note that the problem only occurs with MySQL.
-
-#### Which issue(s) this PR fixes:
-
-Fixes https://github.com/halo-dev/halo/issues/4549
-
-#### Special notes for your reviewer:
-
-```bash
-docker run -it --rm --name halodb -p 3306:3306 -e MYSQL_ROOT_PASSWORD=openmysql -e MYSQL_DATABASE=halo mysql:8
-
-./gradlew bootRun --args="--spring.profiles.active=dev,mysql --halo.plugin.runtime-mode=deployment"
-```
-
-#### Does this PR introduce a user-facing change?
-
-```release-note
-修复因大小写问题导致登录后无权限的问题
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eea575c</div>
-                                        <div class="message">fix: operation items render issue in theme list (#4563)
-
-#### What type of PR is this?
-
-/area console
-/kind bug
-
-#### What this PR does / why we need it:
-
-修复主题管理列表的更多操作项在某些情况下无法打开的问题。
-
-&lt;img width="384" alt="image" src="https://github.com/halo-dev/halo/assets/21301288/2bbea045-2e04-46bc-be55-d9499c87624b"&gt;
-
-
-#### Which issue(s) this PR fixes:
-
-Fixes https://github.com/halo-dev/halo/issues/4559
-
-#### Special notes for your reviewer:
-
-测试方式：
-
-1. 安装若干主题，测试每一项主题的更多操作按钮是否可以正常打开。
-2. 删除某一个主题，测试每一项主题的更多操作按钮是否可以正常打开。
-
-#### Does this PR introduce a user-facing change?
-
-```release-note
-修复 Console 端主题管理列表的更多操作项在某些情况下无法打开的问题。
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1ea355</div>
-                                        <div class="message">feat: add supports for check started status after start plugin operation (#4558)
-
-#### What type of PR is this?
-
-/area console
-/kind improvement
-/milestone 2.10.x
-
-#### What this PR does / why we need it:
-
-支持在启动插件之后检测插件的启动状态，防止直接刷新之后 bundle.js 的内容没有及时更新。
-
-#### Does this PR introduce a user-facing change?
-
-```release-note
-优化 Console 端启动插件的逻辑
-```</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Sept 2024, 15:07:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Sept 2024, 16:11:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
