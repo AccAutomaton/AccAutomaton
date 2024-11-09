@@ -2,4 +2,4 @@
 
 Personal Blogs - [AcAutomaton](https://blog.acautomaton.com)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=AccAutomaton)]
